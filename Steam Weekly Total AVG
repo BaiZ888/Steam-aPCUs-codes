@@ -1,0 +1,1 @@
+SELECT AVG(value) FROM steam_DailyPCU WHERE date BETWEEN '2024-04-08' AND '2024-04-14';
